@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o Lucas Nery
+# 👋 Olá, eu sou o Lucas Nery
 ### 📊 Engenheiro de Dados | Python • SQL • Databricks
 🧀 Natural de Minas Gerais.
 📍 Balneário Camboriú, Santa Catarina - Brasil
