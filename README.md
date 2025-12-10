@@ -18,11 +18,11 @@ Transfomo dados em decisões, atuando na construção, automação e manutençã
 
 ## 🚀 Sobre mim
 
-💼 Analista de Dados em transição para Engenharia de Dados,
-📊 Experiência em pipelines, integrações, modelagem e governança,
-🧩 Interesse em Data Engineering, Automações e arquitetura de dados,
-📚 Aprendendo novas ferramentas e aprimorando minha base,
-💬 Curto temas de **desenvolvimento pessoal** e otimização de performance,
-🏝️ Praticando inglês e evoluindo diariamente,
+💼 Analista de Dados em transição para Engenharia de Dados,  
+📊 Experiência em pipelines, integrações, modelagem e governança,  
+🧩 Interesse em Data Engineering, Automações e arquitetura de dados,  
+📚 Aprendendo novas ferramentas e aprimorando minha base,  
+💬 Curto temas de **desenvolvimento pessoal** e otimização de performance,  
+🏝️ Praticando inglês e evoluindo diariamente,  
 
 ---
