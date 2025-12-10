@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Nery
 ### 📊 Engenheiro de Dados | Python • SQL • Databricks
 🧀 Natural de Minas Gerais.  
-📍 Balneário Camboriú, Santa Catarina - Brasil
+📍 Balneário Camboriú, Santa Catarina
 
 Transfomo dados em decisões, atuando na construção, automação e manutenção de pipelines, modelagem de dados e otimização de processos. Também possuo experiência com análises e criação de dashboards para suportar decisões estratégicas.
 
