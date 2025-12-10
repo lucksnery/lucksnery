@@ -9,7 +9,7 @@ Transfomo dados em decisões, atuando na construção, automação e manutençã
 
 ## ✉️ Canais de Contato
 
-• 📱 37 9 9210 - 1640  
+• 📱 37 9 8819 - 8238  
 • 🔗 [LinkedIn](https://www.linkedin.com/in/lucksnery)  
 • 🌐 [Website](https://www.linkedin.com/in/lucksnery)  
 • 📸 [Instagram](https://www.instagram.com/lucksnery/)
