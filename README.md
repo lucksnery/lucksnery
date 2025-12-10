@@ -22,7 +22,7 @@ Transfomo dados em decisões, atuando na construção, automação e manutençã
 📊 Experiência em pipelines, integrações, modelagem e governança,  
 🧩 Interesse em Data Engineering, Automações e arquitetura de dados,  
 📚 Aprendendo novas ferramentas e aprimorando minha base,  
-💬 Curto temas de **desenvolvimento pessoal** e otimização de performance,  
+💬 Curto temas de desenvolvimento pessoal e otimização de performance,  
 🏝️ Praticando inglês e evoluindo diariamente,  
 
 ---
