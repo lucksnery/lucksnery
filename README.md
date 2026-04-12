@@ -60,6 +60,6 @@ My work spans data engineering, AI agent development, RPA, and governance. I foc
 
 💼 [LinkedIn](https://linkedin.com/in/lucksnery)
 
-🌐 [Portfolio](https://seu-portfolio.com)
-
+🌐 [Portfolio](https://lucksnery.github.io/portifolio) https://lucksnery.github.io/portifolio
+ 
 📸 [Instagram](https://www.instagram.com/lucksnery)
