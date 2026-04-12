@@ -60,3 +60,11 @@ My work spans data engineering, AI agent development, RPA, and governance. I foc
 💼 LinkedIn: linkedin.com/in/lucksnery  
 🌐 Portfolio: lucksnery.github.io/portifolio  
 📸 Instagram: instagram.com/lucksnery
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucksnery-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucksnery)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucksnery.github.io-E05472?style=flat-square&logo=github&logoColor=white)](https://lucksnery.github.io/portifolio)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@lucksnery-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lucksnery)
+
+[![Email](https://img.shields.io/badge/Email-lucasnery.cv@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasnery.cv@gmail.com)
