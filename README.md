@@ -56,7 +56,10 @@ My work spans data engineering, AI agent development, RPA, and governance. I foc
 
 ## Reach me
 
-lucasnery.cv@email.com
-[LinkedIn](https://linkedin.com/in/lucksnery)
-[Portfolio](https://seu-portfolio.com)
-[Instagram](https://www.instagram.com/lucksnery)
+📧 lucasnery.cv@email.com
+
+💼 [LinkedIn](https://linkedin.com/in/lucksnery)
+
+🌐 [Portfolio](https://seu-portfolio.com)
+
+📸 [Instagram](https://www.instagram.com/lucksnery)
