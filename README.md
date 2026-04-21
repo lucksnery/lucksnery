@@ -45,15 +45,6 @@ My work spans data engineering, AI agent development, RPA, and governance. I foc
 
 ---
 
-## Currently
-
-- Building AI agent pipelines and RAG-based solutions
-- Deepening expertise in dbt and modern data stack
-- Mentoring professionals in Data & Analytics
-- Focused on delivering revenue growth, operational efficiency, and cost reduction through data
-
----
-
 ## Reach me
 
 📧 Email: lucasnery.cv@gmail.com  
