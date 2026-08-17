@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋 I'm Lucas Nery</h1>
 
-Analytics & AI Engineer
+<h3 align="center">Data & Analytics Engineer</h3>
 
-> **Analytics Engineering · AI Agents · ETL/ELT Pipelines**
+<p align="center">
+  <i>Analytics Engineering · AI Agents · ETL/ELT Pipelines</i>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:lucasnery.cv@gmail.com">Email</a> &nbsp;|&nbsp;
+  💼 <a href="https://linkedin.com/in/lucksnery">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://lucksnery.github.io/portifolio">Portfolio</a> &nbsp;|&nbsp;
+  📸 <a href="https://instagram.com/lucksnery">Instagram</a>
+</p>
 
 ---
 
@@ -21,8 +30,8 @@ My work spans data engineering, AI agent development and governance, with a grow
 ## Stack
 
 **Analytics & Engineering:** Python · SQL · ETL/ELT · Medallion Architecture · DataOps  
-**BI & Visualization:** Power BI · DAX · Looker Studio · Metabase · Dashboard automation 
-**AI & Automation:** AI Agents · OpenAI API · Anthropic Claude · Google Gemini · n8n 
+**BI & Visualization:** Power BI · DAX · Looker Studio · Metabase · Dashboard automation  
+**AI & Automation:** AI Agents · OpenAI API · Anthropic Claude · Google Gemini · n8n  
 **Governance:** Data policies · LGPD compliance · Data quality · Security & integrity  
 **Databases & Cloud:** SQL Server · PostgreSQL · Oracle DB · Firebase · Google Cloud Platform  
 **Dev & Integration:** FastAPI · Python · REST APIs · Postman · GitHub · Jira · Notion · Linux  
@@ -38,12 +47,3 @@ My work spans data engineering, AI agent development and governance, with a grow
 **BI & Analytics** — Creation of dashboards and BI solutions focused on automated updates, data reliability, and decision-making support with a strong business outcome orientation.
 
 **Data Governance** — Structuring governance frameworks, defining policies and standards to ensure data security, integrity, quality, and LGPD compliance across organizations.
-
----
-
-## Reach me
-
-📧 Email: lucasnery.cv@gmail.com  
-💼 LinkedIn: linkedin.com/in/lucksnery  
-🌐 Portfolio: lucksnery.github.io/portifolio  
-📸 Instagram: instagram.com/lucksnery
